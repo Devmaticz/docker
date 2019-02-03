@@ -266,7 +266,7 @@ cd docker
 ln -s "$(pwd)/pelias" /usr/local/bin/pelias
 
 # cwd
-cd projects/portland-metro
+cd projects/south-africa
 
 # configure environment
 sed -i '/DATA_DIR/d' .env

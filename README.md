@@ -259,7 +259,7 @@ chown 1000:1000 /code /data
 
 # clone repo
 cd /code
-git clone https://github.com/pelias/docker.git
+git clone https://github.com/Devmaticz/docker.git
 cd docker
 
 # install pelias script
